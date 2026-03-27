@@ -8,3 +8,12 @@ Examples:
 8 bits → 256 values
 
 32 bits → about 4.3 billion values
+
+***
+
+##  Check System Bit (32-bit or 64-bit)
+<img width="1008" height="659" alt="image" src="https://github.com/user-attachments/assets/e11c2a50-5be9-4a6b-b815-2c8bcfced7ed" />
+
+## Check IP Addres
+<img width="1165" height="607" alt="image" src="https://github.com/user-attachments/assets/112fca59-fbfd-413a-883a-90f87bbfa78f" />
+
