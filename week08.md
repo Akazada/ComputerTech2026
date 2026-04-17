@@ -82,6 +82,31 @@
 
 <img width="450" height="401" alt="image" src="https://github.com/user-attachments/assets/7f025f18-1f58-4374-8afc-dc5b573875cd" />
 
+***
+
+## 🏠 Final Missions 
+
+<img width="460" height="320" alt="image" src="https://github.com/user-attachments/assets/b3723703-2950-4575-8b4f-974e6e7a82f2" />
+
+<img width="441" height="388" alt="image" src="https://github.com/user-attachments/assets/5016ba8a-3776-447d-ab19-0dc2c1175961" />
+
+Find 3 websites that look different on phone vs desktop: 1. YouTube 2. Instagram 3. Airbnb
+
+Inspect any website with Chrome DevTools (F12) — find 3 the CSS elements --- YouTube
+
+<img width="322" height="748" alt="image" src="https://github.com/user-attachments/assets/436efbdb-f793-48ac-83b7-ce3559af69c0" />
+
+<img width="315" height="67" alt="image" src="https://github.com/user-attachments/assets/9189cde3-ff72-47fe-a2dd-1ce4d4a6380e" />
+
+<img width="312" height="89" alt="image" src="https://github.com/user-attachments/assets/e81db8b3-f163-45d3-8ce3-90439e5673d6" />
+
+Design a dark mode color palette for your favorite app
+
+<img width="476" height="844" alt="image" src="https://github.com/user-attachments/assets/2c543bd9-56d1-443f-9b84-2bef0d758a07" />
+
+
+
+
 
 
 
